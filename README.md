@@ -1,1 +1,2 @@
-# Marky-Web-based-platform-to-generate-blog-pages-using-markdown-files
+# Marky
+Content Management System.
